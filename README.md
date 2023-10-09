@@ -26,6 +26,7 @@ ___Жирный наклонный текст (bold italic)___
 
 > Продолжение цитаты (уровень 1)
 ![image](https://github.com/SirKonnor/MozhaevVladislav-algorithm/assets/144115654/ebc0a624-9631-4384-a03b-19a2f1e81175)
+> ![image](https://github.com/SirKonnor/MozhaevVladislav-algorithm/assets/144115654/fa71a07b-4041-4929-880d-3a6c577ce820)
 ![image](https://github.com/SirKonnor/MozhaevVladislav-algorithm/assets/144115654/ee676488-8479-4659-aec8-53e60e04b0fe)
 ![image](https://github.com/SirKonnor/MozhaevVladislav-algorithm/assets/144115654/1890b1c9-5e59-40f8-b0ae-ba1b0b67a88b)
 ![image](https://github.com/SirKonnor/MozhaevVladislav-algorithm/assets/144115654/e83e943a-557f-4de7-805c-dbc2f9af979b)
