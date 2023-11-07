@@ -7,6 +7,7 @@ Frelance.habr: https://freelance.habr.com/freelancers/vladislav-mozhaev
 WordPress: http://localhost/wordpress/
 hh.ru: https://zvenigorod.hh.ru/vacancy/88256225?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=wordpress
 GitHub: https://freelance.habr.com/tasks/534229
+Практика: https://drive.google.com/drive/folders/1kMr5NGLR2kO1sZrAsxlKDGMId_SbjJsj
 #### Заголовок 4
 
 ~~Зачеркнутый текст~~
