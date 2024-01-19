@@ -1,13 +1,23 @@
 # MozhaevVladislav-algorithm
+
 ПЛАН https://github.com/GnuriaN/format-README
+
 GoogleDoc: https://docs.google.com/document/d/18DpLrxVXvtkoHwDb5fwmnIO4MggKowz4-JhNf15d7O0/edit?usp=drivesdk
+
 Презентация: https://docs.google.com/presentation/d/1JL98ZpXA96Ypz5ieKE5Zpoy_AGCI0mllz_RMFOVCvIo/edit?usp=sharing
+
 Сайт: https://www.unityspace.ru/?utm_source=yandex&utm_medium=cpa&utm_campaign=dlya_sovmestnoj_raboty_mk&utm_content=14366385588&utm_term=---autotargeting&yclid=4303584861777035263
+
 Frelance.habr: https://freelance.habr.com/freelancers/vladislav-mozhaev
+
 WordPress: http://localhost/wordpress/
+
 hh.ru: https://zvenigorod.hh.ru/vacancy/88256225?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=wordpress
+
 GitHub: https://freelance.habr.com/tasks/534229
+
 Практика: https://drive.google.com/drive/folders/1kMr5NGLR2kO1sZrAsxlKDGMId_SbjJsj
+
 #### Заголовок 4
 
 ~~Зачеркнутый текст~~
