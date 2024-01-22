@@ -18,6 +18,9 @@ GitHub: https://freelance.habr.com/tasks/534229
 
 Практика: https://drive.google.com/drive/folders/1kMr5NGLR2kO1sZrAsxlKDGMId_SbjJsj
 
+Тема для БД:  Разработать базу данных организации автоматизации учёта автотранспорта, его автопробега и плановых ремонтов для организации
+
+
 #### Заголовок 4
 
 ~~Зачеркнутый текст~~
