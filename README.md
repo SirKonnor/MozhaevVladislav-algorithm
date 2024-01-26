@@ -20,6 +20,8 @@ GitHub: https://freelance.habr.com/tasks/534229
 
 Тема для БД:  <b>Разработать базу данных организации автоматизации учёта автотранспорта, его автопробега и плановых ремонтов для организации<b>
 
+Код будущего: https://drive.google.com/drive/folders/1XQlTSxNU2dkbaFyTW2cq9AyxbV0Vm7mJ?usp=sharing
+
 
 #### Заголовок 4
 
