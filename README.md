@@ -50,6 +50,9 @@ ___Жирный наклонный текст (bold italic)___
 ![image](https://github.com/SirKonnor/MozhaevVladislav-algorithm/assets/144115654/ee676488-8479-4659-aec8-53e60e04b0fe)
 ![image](https://github.com/SirKonnor/MozhaevVladislav-algorithm/assets/144115654/1890b1c9-5e59-40f8-b0ae-ba1b0b67a88b)
 ![image](https://github.com/SirKonnor/MozhaevVladislav-algorithm/assets/144115654/e83e943a-557f-4de7-805c-dbc2f9af979b)
+>
+> ![image](https://github.com/SirKonnor/MozhaevVladislav-algorithm/assets/144115654/bb1dfb51-fca7-458b-a332-36a962857ea8)
+
 
 
 ![image](https://github.com/SirKonnor/MozhaevVladislav-algorithm/assets/144115654/96549a72-3e76-4c87-be1a-767e85dde23b)
